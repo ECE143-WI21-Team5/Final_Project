@@ -18,7 +18,7 @@
 - air_quality_trend.py : Python file to plot COVID cases and air quality
   - run plot_aqi_trend(air quality data, covid data, air quality index name) to see plot
 - draw_choropleth.py
-  - demo on draw_choropleth_map.ipynb   
+  - demo in draw_choropleth_map.ipynb   
 - .py
 - .py
 - .ipynb

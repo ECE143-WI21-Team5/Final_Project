@@ -8,11 +8,6 @@ warnings.filterwarnings('ignore')
 sns.set_theme(style='dark', font_scale=1.25)
 pd.set_option('display.max_columns', None)
 
-o3 = pd.read_csv('o3.csv')
-pm25 = pd.read_csv('pm25.csv')
-co = pd.read_csv('co.csv')
-covid = pd.read_csv('statewide_cases.csv')
-
 def plot_aqi_trend(air, covid, aqi, location='San Diego', window=30, avg_given=True):
     '''
     Plot line plots based on the moving average of given air quality and covid data.

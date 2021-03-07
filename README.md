@@ -10,15 +10,15 @@
 
 ### file structure
 
-- datasets : datasets used to create comparison between COVID cases and air quality
+- datasets
   - o3.csv
   - co.csv
   - pm25.csv
   - statewide_cases.csv
-- air_quality_trend.py : Python file to plot COVID cases and air quality
-  - run plot_aqi_trend(air quality data, covid data, air quality index name) to see plot
+- air_quality_trend.py
+  - run plot_aqi_trend(air quality DataFrame, covid DataFrame, AQI column name) to see plot
 - draw_choropleth.py
-  - demo in draw_choropleth_map.ipynb   
+  - demo in draw_choropleth_map.ipynb
 - .py
 - .py
 - .ipynb

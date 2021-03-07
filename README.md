@@ -6,6 +6,7 @@
 - numpy
 - matplotlib
 - seaborn
+- folium
 
 ### file structure
 
@@ -16,6 +17,8 @@
   - statewide_cases.csv
 - air_quality_trend.py : Python file to plot COVID cases and air quality
   - run plot_aqi_trend(air quality data, covid data, air quality index name) to see plot
+- draw_choropleth.py
+  - demo on draw_choropleth_map.ipynb   
 - .py
 - .py
 - .ipynb

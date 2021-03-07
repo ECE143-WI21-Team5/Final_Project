@@ -15,6 +15,7 @@
   - pm25.csv
   - statewide_cases.csv
 - air_quality_trend.py : Python file to plot COVID cases and air quality
+  - run plot_aqi_trend(air quality data, covid data, air quality index name) to see plot
 - .py
 - .py
 - .ipynb

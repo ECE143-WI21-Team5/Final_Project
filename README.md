@@ -30,6 +30,8 @@
   - all the individual jupyter notebooks
 - total_covid_new_cases_CA
   - calculate the total number of covid cases
+
+
 **files**
 - calculate_total_covid_amount.py
   - combines all the increase covid-19 cases data of each countries in California  
@@ -50,6 +52,8 @@
 ### How to run code
 
 -Most of the data is in the "datasets" folder.
+
+-In order to show the california choropleth map, please first trust the notebook (->File->Trust Notebook)
 
 -All the "py" files and plots are combined in "inal_submission.ipynb"
 

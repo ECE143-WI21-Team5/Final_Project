@@ -30,6 +30,7 @@
 - air_quality_trend.py
   - run plot_aqi_trend(air quality DataFrame, covid DataFrame, AQI column name) to see plot
 - draw_choropleth.py
+  - draws choropleth map from the results of SARIMAX models 
   - demo in draw_choropleth_map.ipynb
 - final_regression.py
   - filters out for data in california

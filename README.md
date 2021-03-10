@@ -51,14 +51,14 @@
   - geometric information of California counties for choropleth maps
 ### How to run code
 
--Most of the data is in the "datasets" folder.
+- Most of the data is in the "datasets" folder.
 
--In order to show the california choropleth map, please first trust the notebook (->File->Trust Notebook)
+- In order to show the california choropleth map, please first trust the notebook (->File->Trust Notebook)
 
--All the "py" files and plots are combined in "inal_submission.ipynb"
+- All the "py" files and plots are combined in "inal_submission.ipynb"
 
--counties.json (geometric information of California counties for choropleth maps) is place in the root folder
+- counties.json (geometric information of California counties for choropleth maps) is place in the root folder
 
--SARIMAX Predictive model
+- SARIMAX Predictive model
   - Should be able to run it straight. Do make sure that the folder where the data is to be stored exists
   - eg. in the current code. the folder '/air_quality/CO' folder should exist

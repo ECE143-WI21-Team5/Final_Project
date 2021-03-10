@@ -62,3 +62,5 @@
 - SARIMAX Predictive model
   - Should be able to run it straight. Do make sure that the folder where the data is to be stored exists
   - eg. in the current code. the folder '/air_quality/CO' folder should exist
+
+### !!! The "draws choropleth map" part in "final_submission.ipynb" might now display correctly in blowser, please download it and use local software to open it. !!!  

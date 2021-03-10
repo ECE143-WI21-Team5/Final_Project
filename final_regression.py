@@ -206,7 +206,7 @@ def print_predictions(data_name, predictions,test_dates, county_sample):
         plt.plot(test_dates[k],i)
         plt.xlabel('Date')
         plt.ylabel('Parts Per Million')
-        plt.title(data_name + ' polution prediction ' + county_sample[k])
+        plt.title(data_name + ' pollution prediction ' + county_sample[k])
         plt.show()
         k = k + 1
 
@@ -239,7 +239,7 @@ def print_difference(data_name,test_data,predictions,test_dates,county_sample):
         plt.plot(test_dates[i],predictions[i], label = "Predicted PPM") 
         plt.plot(test_dates[i],test_data[i], label = "Actual PPM") 
         plt.legend()
-        plt.title(data_name + ' polution to Date ' + county_sample[i])
+        plt.title(data_name + ' pollution to Date ' + county_sample[i])
         plt.xlabel('Date')
         plt.ylabel('Parts Per Million')
         plt.show()

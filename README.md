@@ -18,13 +18,19 @@
 - statsmodels
 
 ### File structure
-
+**folders**
 - datasets
   - o3.csv
   - co.csv
   - pm25.csv
   - statewide_cases.csv
-  
+- recursive_predictions
+  - python files and jupyter notebooks for trend prediction
+- single_notebook_file
+  - all the individual jupyter notebooks
+- total_covid_new_cases_CA
+  - calculate the total number of covid cases
+**files**
 - calculate_total_covid_amount.py
   - combines all the increase covid-19 cases data of each countries in California  
 - air_quality_trend.py

@@ -44,7 +44,10 @@
 ### How to run code
 
 -Most of the data is in the "datasets" folder.
+
 -All the "py" files and plots are combined in "inal_submission.ipynb"
+
+-counties.json (geometric information of California counties for choropleth maps) is place in the root folder
 
 -SARIMAX Predictive model
   - Should be able to run it straight. Do make sure that the folder where the data is to be stored exists

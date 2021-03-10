@@ -92,6 +92,11 @@ class city_regression:
                     added_dates.append(str(datetime.strptime(ind_measurment[11],"%Y-%m-%d")))
                     self.data.append(temp)
                     self.data_float.append([datetime.strptime(ind_measurment[11],"%Y-%m-%d").timestamp(),float(ind_measurment[16])])
+                    if(len(self.data_float) > 2):
+                        if(self.data_float[-1][0] < self.data_float[-2][0]):
+                            added_dates.pop()
+                            self.data.pop()
+                            self.data_float.pop()
               
     def __str__(self):
         return str(self.city_name)

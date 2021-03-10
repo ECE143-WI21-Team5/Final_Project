@@ -11,6 +11,7 @@
 - matplotlib
 - seaborn
 - folium
+- statsmodels
 
 ### file structure
 

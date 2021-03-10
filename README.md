@@ -4,7 +4,11 @@
 
 - ECE 143 Group 5 Project.pdf
 
-### third-party modules used
+### Jupyter notebook file
+
+- final_submission.ipynb
+
+### Third-party modules used
 
 - pandas
 - numpy
@@ -13,7 +17,7 @@
 - folium
 - statsmodels
 
-### file structure
+### File structure
 
 - datasets
   - o3.csv

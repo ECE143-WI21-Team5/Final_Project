@@ -40,4 +40,4 @@
   - draws choropleth map from the results of SARIMAX models 
   - demo in draw_choropleth_map.ipynb
 - counties.json
-  - contrains shape imformation of california counties for the choropleth maps 
+  - contrains geometric imformation of california counties for the choropleth maps 

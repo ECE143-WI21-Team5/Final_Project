@@ -32,10 +32,11 @@
 - draw_choropleth.py
   - draws choropleth map from the results of SARIMAX models 
   - demo in draw_choropleth_map.ipynb
+- quick_COVID_lockdown_timeline.py
+  - creates a timeline of COVID lockdown events in California
 - final_regression.py
   - filters out for data in california
   - runs filters on that that
   - runs SARIMAX models
   - plots the prediction vs actual
-- .py
-- .ipynb
+

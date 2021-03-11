@@ -64,3 +64,4 @@
   - eg. in the current code. the folder '/air_quality/CO' folder should exist
 
 ### !!! The "draws choropleth map" part in "final_submission.ipynb" might not display correctly in blowser, please download it and use local software to open it. !!!  
+### Please use  "https://nbviewer.jupyter.org/github/ECE143-WI21-Team5/Final_Project/blob/master/final_submission.ipynb"
